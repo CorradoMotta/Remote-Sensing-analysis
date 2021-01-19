@@ -1,2 +1,3 @@
-# Sentinel-OLCI-analysis
-Set of scripts and notebooks to perform some simple analysis over Sentinel-3 OLCI products.
+# Remote sensing analysis
+
+Set of scripts and notebooks to perform some simple analysis over passive remote sensing products such as Satellite images or active remote sensing products such as Sonars.
