@@ -6,8 +6,9 @@
 |Mail		| corradomotta92@gmail.com |
 |Date		| 09/2020 |
 
-## description ##
 ---
+
+## Description: ##
 
 This notebook is a first attempt to decode the sl2 file by proceeding step by step and by providing some textual explanation where needed. It does the following:
 
@@ -20,11 +21,15 @@ Please note that the script is n completed but can be very useful for whoever wa
 
 - Reduce the amount of code (many smarter way to write the script and avoid so many data transformation and for loops) and polish it.
 - Look into the bouncing data and check its variation when Posidonia is detected (first step into automatizing the analysis).
-- This script is very much based on existing resources Tim found on GitHub:
+
+
+## Notes and credits: ##
+This script is partly based on existing resources on GitHub:
 
 - https://github.com/nwhoffman/sl2PyDecode
 - https://github.com/bjcosta/sonar
 
-*Notes*
+Especially the latter is a very good and complete program for sonar analysis that is highly recommended.
 
+*Notes*
 1. Code in its current form supports Python 3.6.
