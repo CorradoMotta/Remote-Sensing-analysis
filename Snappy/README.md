@@ -16,4 +16,5 @@ This notebook can be used to automatically download Sentinel-3 OLCI images and p
 
 **PYTHON UNIVERSAL SENTINEL DOWNLOADER**
 
-The script to download Sentinel-3 OLCi images is developed by EUMETSAT. All information are available here: https://gitlab.eumetsat.int/eumetlab/cross-cutting-tools/sentinel-downloader. The main script and the license are copied in this repository too.
+The script to download Sentinel-3 OLCi images is developed by EUMETSAT. Also, the configuration file for the notebook is extended from the EUMETSAT configuration file for the sentinel downloader and it is used for both purposes.
+ All information are available here: https://gitlab.eumetsat.int/eumetlab/cross-cutting-tools/sentinel-downloader. The main script and the license are copied in this repository too.
